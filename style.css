@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Kanit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:#f2f2f2b2;
+    height: 100vh;
+    
+    
+
+}
+:root{
+  --font-button : 'Fjalla One', sans-serif; 
+   --text1left- : 'Kanit', sans-serif;
+}
+.number{
+    font-size: 20px;
+    color: slateblue;
+    font-family: 'Abril Fatface', cursive;
+
+}
+button{
+     padding: 15PX;
+     align-items:center;
+     font-family:var(--font-button) ;
+     font-size: 20px;
+     color:white ;
+     background-color: #1cb0c4;
+     border-radius: 50px;
+
+
+     position:fixed;
+     top:110px;
+     left:40px;
+     
+}
+.titles{
+    font-weight: 700;
+    font-size:25px;
+
+}
+.mangocol{
+    color: #EECB44;
+}
+.toptext-left{
+    padding:5px 10px 10px 20px;
+    position: fixed;
+    left:50px;
+    font-family:var(--text1left-);
+    color: skyblue;
+    font-size: 20px;
+
+}
+.toptext-left-content{
+    font-size: medium;
+}
+.top-position{
+    position: fixed;
+    left:70px;
+}
+.bottom-center{
+    position:fixed;
+    top:200px;
+    left:50px;
+}
+.increasing-position{
+    position:fixed;
+    top:170px;
+    left:70px;
+    text-align:left;
+    color: skyblue;
+    font-weight:500;
+}
+.increasing-position-size{
+ font-size:20px;
+ font-weight: 700;
+ color: #335870;
+}
+.bottom-center-appimage{
+    position:fixed;
+    top:170px;
+    left:380px;
+
+}
+.bottom-center-image{
+    position:fixed;
+    top:260px;
+    left:50px;
+}
+.end-text-left{
+    position:fixed;
+    top:400px;
+    left:50px;
+
+}
+.end-text-left-main{
+    font-family: 'Abril Fatface', cursive;
+    font-size:40px;
+}
+.million{
+    font-family: 'Fredoka One', cursive;
+    font-size: 18px;
+    color: skyblue;
+}
+.end-text-left-A{
+    position:fixed;
+    top:540px;
+    left:400px;
+}
+.end-text-left-B-img{
+    position:fixed;
+    top:400px;
+    left:390px;
+
+}
+.end-text-left-A-img{
+    position:fixed;
+    top:520px;
+    left:500px;
+
+}
+.right-top{
+    padding:5px 10px 10px 20px;
+    position: fixed;
+    right:400px;
+    top:100px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: skyblue;
+    font-size:16px;
+
+}
+.healthy{
+    font-size:30px;
+    position:fixed;
+    top:70px ;
+    right: 415px;px;
+    color: slateblue;
+}
+.h100{
+    font-size: xx-large;
+    position: fixed;
+    right:500px;
+}
+.whole-grain-position{
+    position: fixed;
+    top:120px;
+    right:550px;
+    font-size:18px;
+
+}
+.right-top-main{
+    position:fixed;
+    right:180px;
+    top:10px;
+}
+.image-a{
+    position: fixed;
+    right:380px;
+    top:120px;
+}
+.image-ab{
+    position: fixed;
+    top:220px;
+
+}
+.right-bottom{
+    padding:5px 10px 10px 20px;
+    position:fixed;
+    top: 400px;px;
+    right:280px;
+    font-family:var(--text1left-);
+    color: skyblue;
+    font-size:15px;
+}
+.rigth2jpg{
+    position: fixed;
+    top: 400px;px;
+    right:580px;
+
+}
+.blue-rb{
+    font-size: 20px;
+    color: #405F71;
+}
+.main-right-bottom{
+    position:fixed;
+    top: 330px;
+    right:180px;
+
+}
+.rotate{
+    width: 10px;
+    height:900px;
+    background-color:#d4cece;
+    position:absolute;
+    left:750px;
+    top:0px;
+}
